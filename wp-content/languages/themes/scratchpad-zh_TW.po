@@ -1,0 +1,305 @@
+# Translation of Themes - Scratchpad in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Scratchpad package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-02 16:55:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Scratchpad\n"
+
+#. Theme Name of the plugin/theme
+msgid "Scratchpad"
+msgstr "Scratchpad"
+
+#. Description of the plugin/theme
+msgid "A colorful theme for collecting your ideas."
+msgstr "一款色彩繽紛、用於記錄個人想法的佈景主題。"
+
+#: inc/plugin-enhancements.php:169
+msgid "Content Options"
+msgstr "內容選項"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到符合條件的頁面。"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "常用分類"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "請在每月彙整中尋找文章。%1$s"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "留言導覽"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "較舊的留言"
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "較新的留言"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: footer.php:31
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#: footer.php:31
+msgid "Proudly powered by %s"
+msgstr "本站採用 %s 建置"
+
+#: footer.php:33
+msgid "Theme: %1$s by %2$s."
+msgstr "佈景主題採用 %2$s 所設計的 %1$s"
+
+#: functions.php:49
+msgid "Header Menu"
+msgstr "頁首選單"
+
+#: functions.php:107
+msgid "Sidebar"
+msgstr "資訊欄"
+
+#: functions.php:117
+msgid "Footer"
+msgstr "頁尾"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:201
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Kalam, translate this to 'off'. Do not translate into your own language.
+#: functions.php:207
+msgctxt "Kalam font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#: header.php:31
+msgid "Menu"
+msgstr "選單"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr "這個佈景主題的特定功能需要 %1$s才能使用，包含: "
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack 外掛"
+
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "網站標誌"
+
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "精選內容"
+
+#: inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "社群網路連結選單"
+
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "選單"
+
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "漫畫"
+
+#: inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "證言集"
+
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "作品集"
+
+#: inc/plugin-enhancements.php:187
+msgid "no specific module needed"
+msgstr "不需特定模組"
+
+#: inc/plugin-enhancements.php:188
+msgid "Custom Content Types module"
+msgstr "[自訂內容類型] 模組"
+
+#: inc/plugin-enhancements.php:265
+msgid " Please activate %1$s. %2$s"
+msgstr "請啟用 %1$s。%2$s"
+
+#: inc/plugin-enhancements.php:267
+msgid "Activate"
+msgstr "啟用"
+
+#: inc/plugin-enhancements.php:275
+msgid " Please install %1$s. %2$s"
+msgstr "請安裝 %1$s。%2$s"
+
+#: inc/plugin-enhancements.php:277
+msgid "Install"
+msgstr "安裝"
+
+#: inc/plugin-enhancements.php:302
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "如需使用 [%1$s] 功能，請先啟用 Jetpack 外掛的 [%2$s] 模組。"
+
+#: inc/plugin-enhancements.php:398
+msgid "Your request failed permission check."
+msgstr "這項要求無法通過權限檢查。"
+
+#: inc/plugin-enhancements.php:405
+msgid "Your request was processed. See ya!"
+msgstr "這項要求已處理完畢。"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "發佈日期: %s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "作者: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65 inc/template-tags.php:80
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:67
+msgid "Posted in"
+msgstr "分類:"
+
+#: inc/template-tags.php:82
+msgid "Tagged:"
+msgstr "標籤:"
+
+#: inc/template-tags.php:88
+msgid "Leave a comment"
+msgstr "發佈留言"
+
+#: inc/template-tags.php:88
+msgid "1 Comment"
+msgstr "1 則留言"
+
+#: inc/template-tags.php:88
+msgid "% Comments"
+msgstr "% 則留言"
+
+#: inc/template-tags.php:101
+msgid "Previous Post"
+msgstr "上一篇文章"
+
+#: inc/template-tags.php:102
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: inc/template-tags.php:118
+msgid "Featured"
+msgstr "精選內容"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」的搜尋結果"
+
+#: template-parts/author-bio.php:16
+msgid "Author:"
+msgstr "作者:"
+
+#: template-parts/author-bio.php:23
+msgid "View All Posts"
+msgstr "檢視全部文章"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+#: template-parts/content-aside.php:30 template-parts/content-image.php:13
+#: template-parts/content-link.php:25 template-parts/content-quote.php:21
+#: template-parts/content-single.php:49 template-parts/content-status.php:35
+#: template-parts/content-video.php:12 template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "閱讀全文 %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-aside.php:35 template-parts/content-link.php:30
+#: template-parts/content-page.php:31 template-parts/content-quote.php:26
+#: template-parts/content-single.php:54 template-parts/content-status.php:40
+#: template-parts/content.php:61
+msgid "Pages:"
+msgstr "頁次:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-aside.php:50 template-parts/content-audio.php:46
+#: template-parts/content-gallery.php:48 template-parts/content-image.php:61
+#: template-parts/content-link.php:45 template-parts/content-page.php:44
+#: template-parts/content-quote.php:45 template-parts/content-single.php:34
+#: template-parts/content-status.php:55 template-parts/content-video.php:56
+#: template-parts/content.php:40
+msgid "Edit %s"
+msgstr "編輯 %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "找不到符合條件的結果"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: inc/template-tags.php:53
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "文章格式為「%1$s」的全部文章"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在〈%2$s〉中有 %1$s 則留言"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在這裡找不到符合條件的項目，請改用以下連結或使用搜尋功能。"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.com/themes"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/scratchpad/"
+msgstr "https://wordpress.com/themes/scratchpad/"

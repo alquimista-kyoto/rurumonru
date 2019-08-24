@@ -1,0 +1,219 @@
+/* CSS Document */
+@charset "utf-8";
+
+@font-face {
+  font-family: 'jin-icons';
+  src:
+    url('font/jin-icons/fonts/jin-icons.ttf?c16tcv') format('truetype'),
+    url('font/jin-icons/fonts/jin-icons.woff?c16tcv') format('woff'),
+    url('font/jin-icons/fonts/jin-icons.svg?c16tcv#jin-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="jin-ifont-"], [class*=" jin-ifont-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'jin-icons' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	will-change: transform;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+[class^="jin-ifont-"]:before, [class*=" jin-ifont-"]:before{
+	font-size: 1.1em;
+	display: block;
+	will-change: transform;
+}
+
+.jin-ifont-account:before {
+  content: "\e900";
+}
+.jin-ifont-archive:before {
+  content: "\e901";
+}
+.jin-ifont-arrow-circle:before {
+  content: "\e902";
+}
+.jin-ifont-arrow-top:before {
+  content: "\e903";
+}
+.jin-ifont-arrow:before {
+  content: "\e904";
+}
+.jin-ifont-batu:before {
+  content: "\e905";
+}
+.jin-ifont-book:before {
+  content: "\e906";
+}
+.jin-ifont-bulb:before {
+  content: "\e907";
+}
+.jin-ifont-cart:before {
+  content: "\e908";
+}
+.jin-ifont-caution:before {
+  content: "\e909";
+}
+.jin-ifont-check-circle:before {
+  content: "\e90a";
+}
+.jin-ifont-check:before {
+  content: "\e90b";
+}
+.jin-ifont-clipboard:before {
+  content: "\e90c";
+}
+.jin-ifont-comment:before {
+  content: "\e90d";
+}
+.jin-ifont-copy:before {
+  content: "\e90e";
+}
+.jin-ifont-crown:before {
+  content: "\e90f";
+}
+.jin-ifont-double-arrow:before {
+  content: "\e910";
+}
+.jin-ifont-droppin:before {
+  content: "\e911";
+}
+.jin-ifont-facebook:before {
+  content: "\e912";
+}
+.jin-ifont-flag:before {
+  content: "\e913";
+}
+.jin-ifont-folder:before {
+  content: "\e914";
+}
+.jin-ifont-gear:before {
+  content: "\e915";
+}
+.jin-ifont-heart:before {
+  content: "\e916";
+}
+.jin-ifont-home:before {
+  content: "\e917";
+}
+.jin-ifont-information:before {
+  content: "\e918";
+}
+.jin-ifont-instagram:before {
+  content: "\e919";
+}
+.jin-ifont-like:before {
+  content: "\e91a";
+}
+.jin-ifont-line:before {
+  content: "\e91b";
+}
+.jin-ifont-mail:before {
+  content: "\e91c";
+}
+.jin-ifont-maru:before {
+  content: "\e91d";
+}
+.jin-ifont-mobile:before {
+  content: "\e91e";
+}
+.jin-ifont-navi:before {
+  content: "\e91f";
+}
+.jin-ifont-pc:before {
+  content: "\e920";
+}
+.jin-ifont-pencil:before {
+  content: "\e921";
+}
+.jin-ifont-plus:before {
+  content: "\e922";
+}
+.jin-ifont-question:before {
+  content: "\e923";
+}
+.jin-ifont-quote:before {
+  content: "\e924";
+  color: #a3a3a3;
+}
+.jin-ifont-related-post:before {
+  content: "\e925";
+}
+.jin-ifont-reload:before {
+  content: "\e926";
+}
+.jin-ifont-reply:before {
+  content: "\e927";
+}
+.jin-ifont-speaker:before {
+  content: "\e928";
+}
+.jin-ifont-star-blank:before {
+  content: "\e929";
+}
+.jin-ifont-star-half:before {
+  content: "\e92a";
+}
+.jin-ifont-star:before {
+  content: "\e92b";
+}
+.jin-ifont-tag:before {
+  content: "\e92c";
+}
+.jin-ifont-twitter:before {
+  content: "\e92d";
+}
+.jin-ifont-unlike:before {
+  content: "\e92e";
+}
+.jin-ifont-watch:before {
+  content: "\e92f";
+}
+.jin-ifont-youtube:before {
+  content: "\e930";
+}
+.jin-ifont-search:before {
+  content: "\e931";
+}
+.jin-ifont-arrow-bottom:before {
+  content: "\e932";
+}
+.jin-ifont-arrow-left:before {
+  content: "\e933";
+}
+.jin-ifont-blogtext:before {
+  content: "\e934";
+}
+.jin-ifont-clover:before {
+  content: "\e935";
+}
+.jin-ifont-post:before {
+  content: "\e936";
+}
+.jin-ifont-facebook-t:before {
+  content: "\e937";
+}
+.jin-ifont-pocket:before {
+  content: "\e938";
+}
+.jin-ifont-bookmark:before {
+  content: "\e939";
+}
+.jin-ifont-copyright:before {
+  content: "\e93a";
+}
+.jin-ifont-inazuma:before {
+  content: "\e93b";
+}
+.jin-ifont-share:before {
+  content: "\e93c";
+}
+.jin-ifont-spanner:before {
+  content: "\e93d";
+}

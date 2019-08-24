@@ -1,0 +1,294 @@
+# Translation of Themes - Kokoro in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Kokoro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-31 18:56:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Kokoro\n"
+
+#. Description of the theme
+msgid "Kokoro is a Responsive WordPress blog theme. The theme is a perfect combination of beautiful and professional. How to install theme: https://youtu.be/9aJYeYjohjo. Get free support and check the demo at http://zthemes.net/themes/kokorolite"
+msgstr "Kokoro 是一款回應式設計、完美結合美觀與專業的 WordPress 部落格佈景主題。佈景主題安裝說明: https://youtu.be/9aJYeYjohjo。取得免費技術支援及觀看示範網站: https://zthemes.net/themes/kokorolite"
+
+#. Theme Name of the theme
+msgid "Kokoro"
+msgstr "Kokoro"
+
+#: inc/customizer.php:380
+msgid "<span>WooCommerce Compatible</span><span>Featured slider</span><span>6 Different Blog Layouts</span><span>Fully Responsive</span><span>100+ Customizable coloring options</span><span>4 Custom Widgets</span><span>Posts/Page Settings</span><span>Footer Copyright Text</span><span>Lifetime Upgrades</span><span>LifeTime Support</span><span>Mailchimp Support</span><span>Well Documented</span><span>Child Theme included</span><span>And More...</span>"
+msgstr "<span>支援 WooCommerce</span><span>精選圖片輪播</span><span>6 種不同的部落格版面配置</span><span>完整的回應式設計</span><span>超過 100 種可自訂的色彩選項</span><span>4 個自訂小工具</span><span>文章/頁面設定</span><span>頁尾版權宣告文字</span><span>終生升級</span><span>終生技術支援</span><span>支援 Mailchimp</span><span>完善的線上說明文件</span><span>內建子佈景主題</span><span>以及更多其他功能...</span>"
+
+#: footer.php:25
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "%1$s %2$s《%3$s》版權所有"
+
+#: footer.php:25
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:27
+msgid "%1$s Designed & Developed by %2$s"
+msgstr "%1$s 佈景主題由 %2$s 設計開發"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到符合條件的頁面。"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "常用分類"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "請在每月彙整中尋找文章。%1$s"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "留言導覽"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "較舊的留言"
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "較新的留言"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "主要選單"
+
+#: functions.php:49
+msgid "Top menu"
+msgstr "頂端選單"
+
+#: functions.php:110
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:111
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:157 inc/customizer.php:31
+msgid "Sidebar"
+msgstr "資訊欄"
+
+#: functions.php:159
+msgid "Add widgets here."
+msgstr "請在這裡新增小工具。"
+
+#: functions.php:166
+msgid "Instagram Footer"
+msgstr "頁尾 Instagram 小工具"
+
+#: functions.php:172
+msgid "Use the \"Instagram\" widget here. IMPORTANT: For best result set number of photos to 4."
+msgstr "這裡可以設定 Instagram 小工具。請注意，為取得最佳效果，請將照片數量設定為 4。"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#: inc/customizer.php:23
+msgid "Theme Options"
+msgstr "佈景主題選項"
+
+#: inc/customizer.php:47
+msgid "Disable Sidebar on Home Page, Archive Page"
+msgstr "停用首頁及彙整頁面中的資訊欄"
+
+#: inc/customizer.php:61
+msgid "Disable Sidebar on Single Post"
+msgstr "停用單篇文章中的資訊欄"
+
+#: inc/customizer.php:75
+msgid "Disable Sidebar on Single Page"
+msgstr "停用單篇頁面中的資訊欄"
+
+#: inc/customizer.php:83
+msgid "Social Media Settings"
+msgstr "社交媒體設定"
+
+#: inc/customizer.php:84
+msgid "Enter your social media(URL). Icons will not show if left blank."
+msgstr "請在這裡輸入要公開的社交媒體網址。如果欄位留空，就不會顯示對應的圖示。"
+
+#: inc/customizer.php:181
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:194
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:207
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:220
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:233
+msgid "Bloglovin"
+msgstr "Bloglovin"
+
+#: inc/customizer.php:246
+msgid "Google Plus"
+msgstr "Google+"
+
+#: inc/customizer.php:259
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:272
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer.php:286
+msgid "Soundcloud"
+msgstr "SoundCloud"
+
+#: inc/customizer.php:299
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:312
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:325
+msgid "Rss"
+msgstr "RSS"
+
+#: inc/customizer.php:337
+msgid "Color Accent"
+msgstr "色調"
+
+#: inc/customizer.php:355
+msgid "Primary Color"
+msgstr "主要色彩"
+
+#: inc/customizer.php:364
+msgid "Upgrade to Kokoro Pro"
+msgstr "升級至 Kokoro Pro"
+
+#: inc/customizer.php:379
+msgid "Kokoro Features"
+msgstr "Kokoro Pro 功能"
+
+#: inc/customizer.php:393
+msgid "<a target=\"_blank\" class=\"kokoro-buy-button\" href=\"https://zthemes.net/themes/kokoro\">Buy Now</a>"
+msgstr "<a target=\"_blank\" class=\"kokoro-buy-button\" href=\"https://zthemes.net/themes/kokoro\">立刻購買授權</a>"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid " %s"
+msgstr " %s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "作者: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "分類: %1$s"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "標籤: %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "編輯 %s"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」的搜尋結果"
+
+#: template-parts/content-grid.php:51 template-parts/content.php:68
+msgid "Continue Reading"
+msgstr "閱讀全文"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "找不到符合條件的結果"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: template-parts/content.php:54 template-parts/content-page.php:19
+msgid "Pages:"
+msgstr "頁次:"
+
+#: template-parts/content-page.php:23
+msgid "Page"
+msgstr "頁次"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在這裡找不到符合條件的項目，請改用以下連結或使用搜尋功能。"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "在〈%s〉中有 1 則留言"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在〈%2$s〉中有 %1$s 則留言"
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">在〈%s〉</span>發佈留言"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "編輯<span class=\"screen-reader-text\">〈%s〉</span>"
+
+#. Theme URI of the theme
+msgid "http://zthemes.net/themes/kokorolite"
+msgstr "http://zthemes.net/themes/kokorolite"
+
+#. Author of the theme
+msgid "ZThemes.net"
+msgstr "ZThemes.net"
+
+#. Author URI of the theme
+msgid "https://zthemes.net/"
+msgstr "https://zthemes.net/"
