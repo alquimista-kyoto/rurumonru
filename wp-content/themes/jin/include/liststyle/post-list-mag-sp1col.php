@@ -38,7 +38,7 @@
 		<input type="radio" name="switch" id="tab-5">
 
 		<ul class="tabBtn-mag">
-			<li><label for="tab-1">最新記事</label></li>
+			<li><label for="tab-1">最新文章</label></li>
 			<?php while( isset($list_cat_id[$list_cat_num2]) ): ?>
 			<?php
 				// カテゴリー情報を取得
