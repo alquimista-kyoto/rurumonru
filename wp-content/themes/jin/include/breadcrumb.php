@@ -31,7 +31,7 @@ function breadcrumbs($args = array()){
         $startTextContainer =  '<' . $textContainer . '>';
         $endTextContainer =  '</' . $textContainer . '>';
     }
-	
+
 	$str = ""; //Notice回避用
     if(is_home()) {
     }
@@ -107,7 +107,7 @@ function breadcrumbs($args = array()){
             	$str.= $separatorHTML;
             }
             $str.= '<li' . $liOption . '><span' . $spanOption . '>' . $startTextContainer. $post -> post_title .$endTextContainer . '</span></li>';
-			
+
         }elseif(is_single() && ! is_attachment()){
             $categories = get_the_category($post->ID);
             $cat = cps_get_youngest_cat($categories);

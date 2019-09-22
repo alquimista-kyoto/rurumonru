@@ -55,7 +55,7 @@
 			<?php else: ?>
 			<div class="post-list-mag autoheight">
 			<?php endif; ?>
-			
+
 
 				<?php
 					$ad_infeed_pc_num = get_option('ad_infeed_pc_num');
@@ -137,7 +137,7 @@
 				<?php get_template_part('include/liststyle/parts/post-list-mag-parts'); ?>
 
 				<?php endwhile; ?>
-				
+
 				<?php if( isset( $cat_url ) && $cat_count > get_option('posts_per_page') ) :?>
 					<?php if( strstr( $cat_url,'/?' ) == false ): ?>
 					<div class="more-cat">
